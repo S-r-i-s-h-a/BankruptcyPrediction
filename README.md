@@ -3,8 +3,7 @@
    - Checked feature distributions, skewness, and outliers.
    - Target column is binary; handled class imbalance with SMOTE.
 
-2. **Feature Reduction**
-   - **Manual selection** based on correlation with target and multicollinearity.  
+2. **Feature Reduction**  
    - **VIF-based reduction**: iteratively removed features with VIF > 10, reducing 95 → 30 features.
 
 3. **Data Splitting & Scaling**
