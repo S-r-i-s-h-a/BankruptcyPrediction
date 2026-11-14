@@ -1,0 +1,2 @@
+# Tell GitHub to treat Jupyter Notebooks as generated/documentation so Python & Dockerfile show up
+*.ipynb linguist-detectable=false
